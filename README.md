@@ -24,10 +24,3 @@ Each tool automates and enhances geoprocessing workflows, making spatial analysi
 1. **Download the toolbox** from the tool's folder.
 2. Open **ArcGIS Pro** → Add the toolbox.
 3. Run the tool with your **own GIS data**.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.  
-
-📧 **Questions? Contact:** [YourEmail@example.com]
