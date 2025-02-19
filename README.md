@@ -12,10 +12,6 @@ Each tool automates and enhances geoprocessing workflows, making spatial analysi
 - Buffers those points based on a **user-defined distance**.
 - 📂 [View Tool](FeatureToBufferTool/)
 
-### 2️⃣ **Least Cost Path Tool**
-- Computes **optimal travel routes** using **raster cost analysis**.
-- 📂 [View Tool](LeastCostPathTool/)
-
 ---
 
 ## 🔧 Requirements
