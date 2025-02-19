@@ -10,7 +10,6 @@ Each tool automates and enhances geoprocessing workflows, making spatial analysi
 ### 1️⃣ **Feature To Buffer Tool**
 - Converts **polygon or line features** into **points**.
 - Buffers those points based on a **user-defined distance**.
-- 📂 [View Tool](FeatureToBufferTool/)
 
 ---
 
