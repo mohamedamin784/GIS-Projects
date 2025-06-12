@@ -31,7 +31,7 @@ This applied GIS project uses spatial analysis techniques to assess **public tra
 - Kernel Density Analysis
 - Census & Open Data Integration
 
-📄 **Full Project Report**: [Transit_Accessibility_Report.pdf](./transit-accessibility-mississauga/Transit_Accessibility_Report.pdf)
+📄 **Full Project Report**: [TransitAccessibilityReport.pdf](./TransitAccessibilityReport.pdf)
 
 
 ---
