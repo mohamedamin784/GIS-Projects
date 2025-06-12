@@ -13,4 +13,3 @@ This GIS project analyzes transit accessibility in Mississauga using ArcGIS Pro.
 
 ## Author
 Mohamed-Amin Yousuf  
-University of Toronto Mississauga – GGR494
