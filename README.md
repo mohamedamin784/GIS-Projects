@@ -23,7 +23,7 @@ A custom geoprocessing tool that:
 
 ---
 
-### 2️⃣ [Mississauga Transit Accessibility Project](./transit-accessibility-mississauga)
+### 2️⃣ Mississauga Transit Accessibility Project
 This applied GIS project uses spatial analysis techniques to assess **public transit accessibility in Mississauga**. The study identifies underserved areas by analyzing walkability buffers around bus stops, population density, and median income levels.
 
 📍 **Key Methods**:
