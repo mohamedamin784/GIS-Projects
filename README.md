@@ -1,26 +1,41 @@
 # 🌍 GIS Projects Repository
 
 ## 📌 Overview
-This repository contains **custom GIS tools** developed using **Python & ArcPy** for **spatial analysis** in **ArcGIS Pro**.  
-Each tool automates and enhances geoprocessing workflows, making spatial analysis more efficient.
+Welcome to my GIS Projects Repository. This collection includes custom tools and applied spatial analysis projects developed using **ArcGIS Pro**, **ArcPy**, and open geospatial data. The goal is to showcase both technical scripting (Python) and applied GIS analysis in solving real-world problems.
 
 ---
 
-## 📂 Available Tools
-### 1️⃣ **Feature To Buffer Tool**
-- Converts **polygon or line features** into **points**.
-- Buffers those points based on a **user-defined distance**.
+## 📂 Available Tools & Projects
+
+### 1️⃣ Feature To Buffer Tool
+A custom geoprocessing tool that:
+- Converts polygon or line features into points
+- Buffers those points based on a user-defined distance  
+🔧 **Requirements**:
+- ArcGIS Pro (v3.0+)
+- Python 3.x (included with ArcGIS Pro)
+- ArcPy library
+
+🚀 **How to Use**:
+- Download the toolbox from the folder
+- Open ArcGIS Pro → Add toolbox
+- Run the tool using your own GIS data
 
 ---
 
-## 🔧 Requirements
-- **ArcGIS Pro (3.0+)**
-- **Python 3.x** (comes with ArcGIS Pro)
-- **ArcPy** library
+### 2️⃣ [Mississauga Transit Accessibility Project](./transit-accessibility-mississauga)
+This applied GIS project uses spatial analysis techniques to assess **public transit accessibility in Mississauga**. The study identifies underserved areas by analyzing walkability buffers around bus stops, population density, and median income levels.
+
+📍 **Key Methods**:
+- Buffer Analysis (500m from MiWay stops)
+- Kernel Density Analysis
+- Census & Open Data Integration
+
+📄 **Full Project Report**: [Transit_Accessibility_Report.pdf](./transit-accessibility-mississauga/Transit_Accessibility_Report.pdf)
+
 
 ---
 
-## 🚀 How to Use
-1. **Download the toolbox** from the tool's folder.
-2. Open **ArcGIS Pro** → Add the toolbox.
-3. Run the tool with your **own GIS data**.
+## 👤 Author
+**Mohamed-Amin Yousuf**  
+
